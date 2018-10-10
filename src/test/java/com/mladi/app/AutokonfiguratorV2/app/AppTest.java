@@ -1,4 +1,4 @@
-package com.mladi.app;
+package com.mladi.app.AutokonfiguratorV2.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
